@@ -13,3 +13,5 @@
 
 ![image](https://github.com/yanggeya/Gadget/assets/39549253/70e5fb49-45c5-4297-83c6-5f6fc9960dbe)
 
+
+目前存在问题 有些端口指纹判断不准确。
